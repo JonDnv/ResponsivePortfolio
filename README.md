@@ -14,3 +14,4 @@ A responsive portfolio is an important tool for any web developer, in order to s
  2. Created assets folder and styles.css shell file.
  3. Updated README file.
  4. Filled in files with boilerplate html.
+ 5. Created Nav Bar & Sticky Footer.
