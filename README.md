@@ -4,13 +4,22 @@
 A responsive portfolio is an important tool for any web developer, in order to show the developer's capabilities to create mobile-first and responsive applications. This application will have a home page, contact page, and a portfolio page. These pages should link to each other and respond to screen sizes appropriately.
 
 ---
+
+## Links
+
+* [Responsive Portfolio](https://jondnv.github.io/ResponsivePortfolio/)
+* [Github Repository](https://github.com/JonDnv/ResponsivePortfolio)
+---
+
 ## Contributing
+
 * Bootstrap
 * Font Awesome
 * W3 Schools
 * Unsplash
 
 ---
+
 ## Change History
 
  1. Created index, portfolio, and contact shell files.
