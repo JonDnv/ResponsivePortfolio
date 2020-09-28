@@ -17,6 +17,7 @@ A responsive portfolio is an important tool for any web developer, in order to s
 * Font Awesome
 * W3 Schools
 * Unsplash
+* Lorem Picsum
 
 ---
 
@@ -28,4 +29,4 @@ A responsive portfolio is an important tool for any web developer, in order to s
  4. Filled in files with boilerplate html.
  5. Created Nav Bar & Sticky Footer.
  6. Updated README file.
- 7. 
+ 7. Completed Full Size About Me & Portfolio Sites.
