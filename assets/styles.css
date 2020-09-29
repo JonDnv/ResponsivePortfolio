@@ -1,21 +1,26 @@
+/* Changes background image on all pages */
 body {
   background-image: url(./nordwood-themes-KcsKWw77Ovw-unsplash.jpg);
 }
 
+/* Centers footer text, changes the background color to match site theme and provides a top margin */
 footer {
   text-align: center;
   background-color: #f0f2f3;
   margin-top: 3rem;
 }
 
+/* Changes the background color to match site theme */
 nav {
   background-color: #f0f2f3;
 }
 
+/* Provides a top margin for cards so they don't sit behind the menu */
 .card {
   margin-top: 5rem;
 }
 
+/* Provides space around image in about me page so text doesn't run up against it */
 .spacer {
   padding-right: 10px;
   padding-bottom: 5px;
