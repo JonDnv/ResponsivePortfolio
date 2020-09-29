@@ -16,7 +16,9 @@
     <title>Contact</title>
   </head>
   <body>
-    <nav class="navbar navbar-expand-md navbar-light bg-clear fixed-top">
+    <nav
+      class="navbar navbar-expand-lg navbar-expand-md navbar-expand-sm navbar-light bg-clear fixed-top"
+    >
       <a class="navbar-brand">
         <img
           src="./assets/contactme.ico"
@@ -59,8 +61,65 @@
       </div>
     </nav>
 
+    <div class="container pb-3 card">
+      <div class="row card-header">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+          <h1>Contact</h1>
+        </div>
+      </div>
 
-    
+      <div class="row card-body">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+          <label for="basic-name">Name</label>
+          <div class="input-group mb-3">
+            <div class="input-group-prepend">
+              <span class="input-group-text" id="basic-addon3"
+                >Please Submit your Name</span
+              >
+            </div>
+            <input
+              type="text"
+              class="form-control"
+              id="basic-url"
+              aria-describedby="basic-addon3"
+            />
+          </div>
+
+          <label for="basic-email">Please Submit Your Email</label>
+          <div class="input-group mb-3">
+            <div class="input-group-prepend">
+              <span class="input-group-text" id="basic-addon1"
+                >Please Submit Your Email</span
+              >
+            </div>
+            <input
+              type="text"
+              class="form-control"
+              aria-label="Username"
+              aria-describedby="basic-addon1"
+            />
+          </div>
+
+          <div class="input-group">
+            <div class="input-group-prepend">
+              <span class="input-group-text">Comments</span>
+            </div>
+            <textarea
+              class="form-control"
+              placeholder="Please leave a comment"
+              aria-label="With textarea"
+            ></textarea>
+          </div>
+
+          <button type="button" class="btn btn-secondary btn-sm mt-3">
+            Submit
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!--Section: Contact v.2-->
+
     <footer class="fixed-bottom">Made With Bootstrap</footer>
     <script
       src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
