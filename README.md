@@ -31,3 +31,4 @@ A responsive portfolio is an important tool for any web developer, in order to s
  6. Updated README file.
  7. Completed Full Size About Me & Portfolio Sites.
  8. Completed Responsive About Me Page.
+ 9. Completed Responsive Portfolio Page.
