@@ -21,8 +21,6 @@ nav {
   padding-bottom: 5px;
 }
 
-@media screen and (max-width: 400) {
-  img {
-    size: 400px;
-  }
+#inputcomments {
+  
 }
