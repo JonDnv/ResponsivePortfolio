@@ -1,6 +1,7 @@
 /* Changes background image on all pages */
 body {
   background-image: url(./nordwood-themes-KcsKWw77Ovw-unsplash.jpg);
+  overflow-x: hidden;
 }
 
 /* Centers footer text, changes the background color to match site theme and provides a top margin */
@@ -8,11 +9,13 @@ footer {
   text-align: center;
   background-color: #f0f2f3;
   margin-top: 3rem;
+  overflow-x: hidden;
 }
 
 /* Changes the background color to match site theme */
 nav {
   background-color: #f0f2f3;
+  overflow-x: hidden;
 }
 
 /* Provides a top margin for cards so they don't sit behind the menu */
@@ -24,4 +27,25 @@ nav {
 .spacer {
   padding-right: 10px;
   padding-bottom: 5px;
+}
+
+@media screen and (max-width: 401px) {
+  .small-image {
+    width: 400px;
+  }
+
+  .spacer {
+    padding-right: 0px;
+    padding-bottom: 0px;
+  }
+
+  .navbar-expand-sm {
+    padding-left: 1px;
+    padding-right: 1px;
+  }
+
+  .card-body {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
 }
