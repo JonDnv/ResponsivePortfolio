@@ -9,6 +9,7 @@ A responsive portfolio is an important tool for any web developer, in order to s
 
 * [Responsive Portfolio](https://jondnv.github.io/ResponsivePortfolio/)
 * [Github Repository](https://github.com/JonDnv/ResponsivePortfolio)
+
 ---
 
 ## Contributing
