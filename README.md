@@ -1,4 +1,5 @@
 # Responsive Portfolio
+
 ---
 
 A responsive portfolio is an important tool for any web developer, in order to show the developer's capabilities to create mobile-first and responsive applications. This application will have a home page, contact page, and a portfolio page. These pages should link to each other and respond to screen sizes appropriately.
@@ -35,3 +36,5 @@ A responsive portfolio is an important tool for any web developer, in order to s
  9. Completed Responsive Portfolio Page.
 10. Completed Responsive Contact Page.
 11. Documented HTML & CSS files.
+12. Added Resume File.
+13. Updated pages with Links to GitHub, LinkedIn, & Resume.

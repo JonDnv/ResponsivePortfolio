@@ -23,10 +23,20 @@ nav {
   margin-top: 5rem;
 }
 
+h3 {
+  margin-top: 1rem;
+}
 /* Provides space around image in about me page so text doesn't run up against it */
 .spacer {
   padding-right: 10px;
   padding-bottom: 5px;
+}
+
+.portfolioImage {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2.5rem;
 }
 
 @media screen and (max-width: 401px) {
